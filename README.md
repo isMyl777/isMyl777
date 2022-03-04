@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isMyl777
-- 👀 I’m interested in sneak and lol
+- 👀 I’m interested in sneaker and lol
 - 🌱 I’m currently learning Python and CV
 
 
