@@ -2,7 +2,7 @@
 
 - 💻 Worked in GWT (Intern) 2022-now
 - 🔭 Worked in Lenovo Shanghai Lab (External) 2021-2022
-- 🌱 Worked in Decathlon S&T (Intern)2017-2020
+- 🌱 Worked in Decathlon S&T (Intern) 2017-2020
 - 👯 Bachelor of Computer Science and Technology,Shanghai Polytechnic University, 2013 - 2017
 - 👀 I’m interested in sneaker and lol
 - 🌱 I’m currently learning Python and CV
